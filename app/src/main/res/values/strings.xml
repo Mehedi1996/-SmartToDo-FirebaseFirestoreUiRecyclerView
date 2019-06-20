@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseUiRecyclerView</string>
+    <string name="save">Save</string>
+    <string name="_1">1</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="ettitle">Title</string>
+    <string name="etDescription">Description</string>
+    <string name="tvPriority">Priority:</string>
+</resources>
